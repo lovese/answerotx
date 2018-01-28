@@ -45,7 +45,7 @@ AnswerotX: Start monitor < 194f41e1 >
 AnswerotX: start...
 ```
 
-3. 访问`直播答题小能手`的服务器地址，如`http://地址:端口/index/`，然后再界面中勾选`开启本地功能`复选框，点击答题即可。
+3. 访问`直播答题小能手`的服务器地址，如`http://地址:端口/`，然后再界面中勾选`开启本地功能`复选框，点击答题即可。
 
 ![img](config.png)
 
@@ -55,7 +55,7 @@ AnswerotX: start...
 
 如果觉得自己部署`直播答题小能手`麻烦，也可以使用我提供的服务器地址：
 
-**[http://answerot.com/index/](http://answerot.com/index/)**
+**[http://answerot.com/index/](http://answerot.com/)**
 
 # 捐助
 
