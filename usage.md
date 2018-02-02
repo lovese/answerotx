@@ -11,7 +11,7 @@
 
 3. 拿出USB线连接手机和电脑，一般会在手机端提示`是否允许电脑调试手机`，选择允许即可。
 
-4. 下载`AnswerotX`，点击运行`answerotx.bat`。根据提示信息填入手机设备号，如果没有找到设备号，请确认手机是否连上，USB调试模式是否打开，是否允许电脑调试手机。
+4. 下载[AnswerotX](https://github.com/anhkgg/answerotx/archive/master.zip)，点击运行`answerotx.bat`。根据提示信息填入手机设备号，如果没有找到设备号，请确认手机是否连上，USB调试模式是否打开，是否允许电脑调试手机。
 
 ```
 请仔细查看下面的提示信息：
@@ -32,13 +32,13 @@ AnswerotX: Start monitor < 194f41e1 >
 AnswerotX: start...
 ```
 
-5. 打开答题App，进入答题页面，打开浏览器访问www.answerot.com。等待手机app题目出现，点击浏览器中答题按钮，2秒左右出现结果。
+5. 打开答题App，进入答题页面，打开浏览器访问[www.answerot.com](http://www.answerot.com)。等待手机app题目出现，点击浏览器中答题按钮，2秒左右出现结果。
 
 # 说明
 
 关于答案说明，请看[这里](https://github.com/anhkgg/answerot/blob/master/README.md)中`怎么答题`的说明。
 
-由于目前不知道有多少朋友需要，www.answerot.com服务器配置较低，可能会影响速度，暂时只是提供体验使用，需要的可以跟我联系，我根据情况看是否升级服务器。如果动手能力强的朋友，可以自行下载[answerot](https://github.com/anhkgg/answerot)配置自己的服务器。
+由于目前不知道有多少朋友需要，[www.answerot.com](http://www.answerot.com)服务器配置较低，可能会影响速度，暂时只是提供体验使用，需要的可以跟我联系，我根据情况看是否升级服务器。如果动手能力强的朋友，可以自行下载[answerot](https://github.com/anhkgg/answerot)配置自己的服务器。
 
 answerot支持直接在线使用，不需要AnswerotX，也兼容AnswerotX同事使用。
 
