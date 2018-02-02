@@ -8,6 +8,8 @@
 
 可以做到只用部署一个`直播答题小能手`服务端，在任何电脑上运行answerotx之后，访问答题小能手地址即可完成题目搜索。
 
+点击查看 **[详细使用帮助](./usage.md)**
+
 # 更新
 
 1. **发布v0.1.3**。压缩包下载请点击[v0.1.3](https://github.com/anhkgg/answerotx/releases/tag/v0.1.3)。
