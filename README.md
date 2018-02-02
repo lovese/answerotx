@@ -8,21 +8,13 @@
 
 可以做到只用部署一个`直播答题小能手`服务端，在任何电脑上运行answerotx之后，访问答题小能手地址即可完成题目搜索。
 
-[项目介绍和使用](#INSTALL)
+# 更新
 
-# 功能更新
-
-## 更新 2018.01.28
-
-1. **增加4个答题平台支持**。分别是UC-疯狂夺金、蘑菇街-大富翁、掌阅-百万文豪、映客-芝士超人，感谢@[AUGUSTRUSH8](https://github.com/AUGUSTRUSH8)提供的题目图片。
-
-2. **开放[www.answerot.com](http://www.answerot.com)试用**。目前服务器配置较低，可能会影响速度，仅给有兴趣的朋友试用。如果后续有需求，再考虑升级服务器。**后续功能同步更新answerot、AnswerotX、服务器**。
-
-<h1 id='INSTALL'>项目介绍和使用</h1>
+1. **发布v0.1.3**。压缩包下载请点击[v0.1.3](https://github.com/anhkgg/answerotx/releases/tag/v0.1.3)。
 
 # 使用
 
-1. 通过USB插上手机到电脑端，开启手机USB调试模式（某些手机需要手工确认允许）。
+1. 通过USB连接手机到电脑端，开启手机USB调试模式（某些手机需要手工确认允许）。
 
 2. 运行answerotx.bat，根据提示输入手机设备号，如下的`194f41e1`。如果没有设备信息，请检查手机是否连接成功，USB调试模式是否正确启用。
 
@@ -45,7 +37,7 @@ AnswerotX: Start monitor < 194f41e1 >
 AnswerotX: start...
 ```
 
-3. 访问`直播答题小能手`的服务器地址，如`http://地址:端口/`，然后再界面中勾选`开启本地功能`复选框，点击答题即可。
+3. 访问`直播答题小能手`的服务器地址，如`http://地址:端口/index/`，然后再界面中勾选`开启本地功能`复选框，点击答题即可。
 
 ![img](config.png)
 
@@ -55,7 +47,7 @@ AnswerotX: start...
 
 如果觉得自己部署`直播答题小能手`麻烦，也可以使用我提供的服务器地址：
 
-**[http://answerot.com/index/](http://answerot.com/)**
+**[http://answerot.com/index/](http://answerot.com/index/)**
 
 # 捐助
 
